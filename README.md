@@ -1,1 +1,2 @@
 # CypressCucumberProject
+npx cypress open
